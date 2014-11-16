@@ -54,7 +54,7 @@
                 <outputDirectory>${project.build.directory}/snapshots</outputDirectory> <!-- matches distribution management repository url above -->
                 <branch>refs/head/snapshots</branch>                       <!-- remote branch name -->
                 <includes><include>**/*</include></includes>
-                <merge>true</merge>                                        <!-- don't delete old artifacts -->
+                <merge>false</merge>                                        <!-- don't delete old artifacts -->
                 <repositoryName>vital-public-mvn-repo</repositoryName>      <!-- github repo name -->
                 <repositoryOwner>vital-ai</repositoryOwner>    <!-- github username  -->
             </configuration>
