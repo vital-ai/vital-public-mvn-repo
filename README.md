@@ -23,7 +23,7 @@ Can use this repo in maven POM with:
         <id>vital-public-mvn-repo-releases</id>
         <name>Vital AI Public Maven Repo Releases</name>
         <url>https://github.com/vital-ai/vital-public-mvn-repo/raw/releases/</url>
-    </repository
+    </repository>
     
 </repositories>
 ````
