@@ -9,20 +9,7 @@
   
   <dependencies>
   
-    <dependency>
-      <groupId>vital-ai</groupId>
-      <artifactId>vitalsigns</artifactId>
-      <version>0.2.250</version>
-      <scope>compile</scope>
-    </dependency>
-    
-    <dependency>
-      <groupId>vital-ai</groupId>
-      <artifactId>vital-domain</artifactId>
-      <version>0.2.250</version>
-      <scope>compile</scope>
-    </dependency>
-    
+
   </dependencies>
   
 </project>
