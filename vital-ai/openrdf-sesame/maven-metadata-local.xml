@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>vital-ai</groupId>
+  <artifactId>openrdf-sesame</artifactId>
+  <versioning>
+    <release>2.6.8-onejar</release>
+    <versions>
+      <version>2.6.8-onejar</version>
+    </versions>
+    <lastUpdated>20150217180000</lastUpdated>
+  </versioning>
+</metadata>
