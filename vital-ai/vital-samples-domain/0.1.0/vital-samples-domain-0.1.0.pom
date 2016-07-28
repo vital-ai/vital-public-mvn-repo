@@ -5,11 +5,19 @@
   <groupId>vital-ai</groupId>
   <artifactId>vital-samples-domain</artifactId>
   <version>0.1.0</version>
-  <description>POM was created from install:install-file</description>
+  <description>POM was generated with vitalmavendeploy command</description>
   
   <dependencies>
-  
+    
+    <dependency>
+      <groupId>vital-ai</groupId>
+      <artifactId>vital-domain</artifactId>
+      <version>0.2.304</version>
+      <scope>compile</scope>
+    </dependency>
+
 
   </dependencies>
   
 </project>
+
