@@ -5,15 +5,19 @@
   <groupId>vitalai-com</groupId>
   <artifactId>vital-commerce</artifactId>
   <version>0.2.304</version>
-  <description>POM was created from install:install-file</description>
+  <description>POM was generated with vitalmavendeploy command</description>
   
   <dependencies>
+    
     <dependency>
       <groupId>vitalai-com</groupId>
       <artifactId>vital-generic-app</artifactId>
       <version>0.2.304</version>
       <scope>compile</scope>
     </dependency>
+
+
   </dependencies>
   
 </project>
+
