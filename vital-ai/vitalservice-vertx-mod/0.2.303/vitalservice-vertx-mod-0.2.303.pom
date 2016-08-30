@@ -123,7 +123,7 @@
 
 
 		<!-- vital service -->
-
+		
 		<dependency>
 			<groupId>vital-ai</groupId>
 			<artifactId>vitalservice</artifactId>
@@ -135,6 +135,7 @@
 			<artifactId>vital-lucene</artifactId>
 			<version>0.2.303</version>
 		</dependency>
+		
 
 		<!-- tests -->
 		<dependency>
