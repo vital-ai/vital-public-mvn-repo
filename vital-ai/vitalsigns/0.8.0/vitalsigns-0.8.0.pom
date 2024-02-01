@@ -353,7 +353,6 @@
 
         -->
 
-
     </dependencies>
 
     <build>
@@ -495,6 +494,7 @@
                     <include>**/*.properties</include>
                     <include>**/*.css</include>
                     <include>**/*.js</include>
+                    <include>**/*.gdsl</include>
 
 
 
